@@ -1,5 +1,5 @@
 <?php 
-require __DIR__ . '/myFunctions.php';
+require __DIR__ . '/passwordGenerationLogic.php';
 ?>
 
 <!DOCTYPE html>
